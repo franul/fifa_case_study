@@ -8,6 +8,7 @@ In scratch, I performed:
 - correlation analysis
 - feature selection
 - PCA
+
 Then:
 - I leanrt few models and test their performances
 - I selceted the most promising models and hypertuned their parameters
