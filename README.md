@@ -10,7 +10,7 @@ In scratch, I performed:
 - PCA
 
 Then:
-- I leanrt few models and test their performances
+- I leanrt few models and tested their performances
 - I selceted the most promising models and hypertuned their parameters
 
 I have recieved 83,2% accuracy on test set (20% of whole data set) for Decision Tree Classifier for discretizied, standarized data.
